@@ -1,0 +1,22 @@
+h1 {
+    color: green;
+}
+
+para selecionar uma tag pelo nome, só coloque o nome da tag
+h2 {
+    color:green
+}
+
+jogo da velha para selicionar o id e só se usa um id
+#economia h2 { 
+    color: gold;
+}
+
+ponto para selicionar class a class pode usar o mesmo em outros elementos
+.creation_date {
+    color: #ccc;
+}
+
+*{
+    color: red;
+}
